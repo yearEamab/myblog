@@ -24,9 +24,6 @@ https://github.com/myminwang/myblog
 * 分享、打赏功能
 
 ### 下载
-```
-git clone https://github.com/myminwang/myblog.git
-```
 
 ### 安装
 ```
