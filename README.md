@@ -37,3 +37,4 @@ python manage.py runserver
 ```
 
 浏览器中打开<http://127.0.0.1:8000/>即可访问
+
