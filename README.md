@@ -1,4 +1,4 @@
-原项目地址，我只是改了一个bug，原项目会一直循环跳转到上一个页面，发现是right.html的历史今天引用导致，注释掉
+原项目地址，我只是改了一个bug，原项目会一直循环跳转到上一个页面，发现是right.html的历史今天引用导致，注释掉。编写了Dockerfile，run.sh，myblog.conf(nginx配置文件)来在docker中运行。复制extra_apps中的xadmin的static静态文件到根目录的static目录中。
 
 https://github.com/myminwang/myblog
 
